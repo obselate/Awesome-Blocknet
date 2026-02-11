@@ -4,7 +4,7 @@
 <img src="./assets/blocknet.png" align="right" width="150">
 A curated list of Blocknet projects and resources.
 
-If you would like to add your Blocknet, please take a look at the [Contributions](./Contributions.md) page and create a PR for your addition.
+If you would like to add your Blocknet, please take a look at the [Contributing](./Contributing.md) page and create a PR for your addition.
 
 # Content
 

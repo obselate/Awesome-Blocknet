@@ -25,3 +25,4 @@ If you would like to add your Blocknet, please take a look at the [Contributing]
 
 - [Blocknet-Miner](https://github.com/crappyrules/blocknet-miner) - Desktop-friendly launcher for the Blocknet Daemon written in Go, Javascript, HTML, CSS
 - [BNTUI](https://github.com/obselate/bntui) - Terminal User Interface for the Blocknet Daemon written in Rust
+- [blocknet-tauri](https://github.com/blocknetprivacy/blocknet-tauri) - A graphical interface for Blocknet, built with Tauri

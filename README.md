@@ -6,6 +6,7 @@
 A curated list of Blocknet projects and resources.
 
 <br>
+<br>
 
 If you would like to add your Blocknet, please take a look at the [Contributing](./Contributing.md) page and create a PR for your addition.
 

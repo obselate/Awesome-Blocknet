@@ -1,6 +1,7 @@
 # Awesome Blocknet
 
 [Blocknet](https://github.com/blocknetprivacy/blocknet) is a private digital currency with confidential transactions using stealth addresses and ring signatures.
+
 <img src="./assets/blocknet.png" align="right" width="150">
 A curated list of Blocknet projects and resources.
 

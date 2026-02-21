@@ -21,6 +21,7 @@ If you would like to add your Blocknet, please take a look at the [Contributing]
 - [Blocknet explorer](https://explorer.blocknetcrypto.com/) - Explorer website for Blocknet
 - [Blocknet API Documentation](https://blocknetcrypto.com/api) - Documentation for Blocknet's daemon API
 - [Blocknet Node Map](https://github.com/crappyrules/blocknet-nodemap) - World map of Blocknet nodes
+- [Blocknet Paper Wallet Generator](https://blocknetprivacy.github.io/paper-wallet/) - Generator for offline wallets
 
 # Projects
 

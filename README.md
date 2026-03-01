@@ -24,13 +24,14 @@ If you would like to add your Blocknet, please take a look at the [Contributing]
 - [Blocknet Node Map](https://github.com/crappyrules/blocknet-nodemap) - World map of Blocknet nodes
 - [Blocknet Paper Wallet Generator](https://blocknetprivacy.github.io/paper-wallet/) - Generator for offline wallets
 
-# Projects
+# Services
+- [Blocknet.id](https://blocknet.id) - Short name service on Blocknet
+- [BNTPay](https://bntpay.com) - Free resolver service for blocknet:// payment links
 
-
-## Miners
+# Miners
 - [Blocknet-Miner](https://github.com/crappyrules/blocknet-miner) - Desktop-friendly launcher for the Blocknet Daemon written in Go, Javascript, HTML, CSS
 - [Seine](https://github.com/zpalmtree/seine) - TUI Miner written in Rust
 
-## Interfaces
+# Interfaces
 - [BNTUI](https://github.com/obselate/bntui) - Terminal User Interface for the Blocknet Daemon written in Rust
 - [blocknet-tauri](https://github.com/blocknetprivacy/blocknet-tauri) - A graphical interface for Blocknet, built with Tauri

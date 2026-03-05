@@ -28,9 +28,10 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [Blocknet.id](https://blocknet.id) - Short name service on Blocknet
 - [BNTPay](https://bntpay.com) - Free resolver service for blocknet:// payment links
 
-# Miners
+# Mining
 - [Blocknet-Miner](https://github.com/crappyrules/blocknet-miner) - Desktop-friendly launcher for the Blocknet Daemon written in Go, Javascript, HTML, CSS
 - [Seine](https://github.com/zpalmtree/seine) - TUI Miner written in Rust
+- [BNTPool](https://bntpool.com/#/start) - The first BNT Pool
 
 # Interfaces
 - [BNTUI](https://github.com/obselate/bntui) - Terminal User Interface for the Blocknet Daemon written in Rust

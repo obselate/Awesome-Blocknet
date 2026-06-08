@@ -22,7 +22,7 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [Blocknet Visualizer](https://visualizer.blocknetcrypto.com/) - Audio Visual representation of the network
 - [Blocknet API Documentation](https://blocknetcrypto.com/api) - Documentation for Blocknet's daemon API
 - [Blocknet Node Map](https://github.com/crappyrules/blocknet-nodemap) - World map of Blocknet nodes
-- [Blocknet Paper Wallet Generator](https://blocknetprivacy.github.io/paper-wallet/) - Generator for offline wallets
+- [Blocknet Paper Wallet Generator](https://github.com/crappyrules/blocknet-paperwallet) - Generator for offline wallets
 
 # Services
 - [Blocknet.id](https://blocknet.id) - Short name service on Blocknet

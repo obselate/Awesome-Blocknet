@@ -40,3 +40,4 @@ If you would like to add your Blocknet project, please take a look at the [Contr
 - [Gyroid](https://github.com/obselate/gyroid) - Blocknet wallet with a graphical interface and command-line tools
 - [blocknet-android](https://github.com/crappyrules/blocknet-android) - Native Android wallet for Blocknet written in Java
 - [bntop](https://github.com/blocknetprivacy/bntop) - Top-style monitor for the Blocknet Daemon written in Go
+- [blocknet-paperwallet](https://github.com/blocknetprivacy/blocknet-paperwallet) - Offline paper wallet generator
